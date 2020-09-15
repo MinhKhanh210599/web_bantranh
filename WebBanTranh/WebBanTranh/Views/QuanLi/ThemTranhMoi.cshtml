@@ -1,0 +1,104 @@
+﻿@{
+    ViewBag.Title = "ThemTranhMoi";
+    Layout = "~/Views/Shared/LayoutAdmin.cshtml";
+}
+
+<div class="container-fluid">
+    <div class="row" style="margin-top:20px; margin-bottom:20px; background-color:#0ff">
+        <div class="container">
+            <label style="text-align:center ;font-size:50px;font-family:cursive"> Thêm Sản Phẩm</label>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <form action="Them" method="post" enctype="multipart/form-data">
+  
+     <div class="form-group" style="border: medium">
+                    <div  style="text-align: left">
+                       <label>Mã Sản Phẩm</label>
+                    </div>
+
+                    <div >
+                          <input class="form-control" name="txtMaSP" type="text" style="width:300px" placeholder="Nhập mã sản phẩm"/>                   
+                    </div>
+      </div>
+   
+        <div class="form-group" style="border: medium">
+                    <div  style="text-align: left">
+                       <label>Tên Sản Phẩm</label>
+                    </div>
+
+                    <div >
+
+                          <input class="form-control" name="txtTenSP"  type="text" style="width:300px" placeholder="Tên sản phẩm"/>                   
+                    </div>
+      </div>
+         <div class="form-group" style="border: medium">
+                            <div  style="text-align: left">
+                               <label>Số Lượng Sản Phẩm</label>
+                            </div>
+
+                            <div >
+
+                                  <input class="form-control" name="txtSoLuong"  type="text" style="width:300px" placeholder="Sô lượng sản phẩm"/>                   
+                            </div>
+              </div>
+
+         <div class="form-group" style="border: medium">
+                    <div  style="text-align: left">
+                       <label>Mô Tả Sản Phẩm</label>
+                    </div>
+
+                    <div >
+                         <textarea id="myTextarea2" name="txtMoTa"  class="form-control" rows="5"></textarea>
+                          @*<input class="form-control" name="txtTenSP"  type="text" style="width:300px" placeholder="Tên sản phẩm"/>*@                   
+                    </div>
+      </div>
+    
+
+        <div class="form-group" style="border: medium">
+                    <div  style="text-align: left">
+                      <label>Giá Sản Phẩm</label>
+                    </div>
+
+                    <div >
+
+                          <input class="form-control" name="txtDonGia"  type="text" style="width:300px" placeholder="Đơn giá sản phẩm"/>                   
+                    </div>
+      </div>
+   
+
+          <div class="form-group" style="border: medium">
+                    <div  style="text-align: left">
+                    <label>Hình Ảnh Sản Phẩm</label>
+                    </div>
+
+                    <div >
+                         <input name="fileUpLoad" type="file" style="width:300px"/>              
+                    </div>
+      </div>
+   
+    <div class="form-row">
+        <div class="form-group col-md-2"style="text-align:right">
+            <label>Mã Tranh </label>
+        </div>
+        <div class="form-group col-md-5">
+             @Html.DropDownList("MaTranh", (IEnumerable<SelectListItem>)ViewBag.XXX)
+        </div>
+    </div>
+  
+    <div class="container">
+        <div class="row">         
+                 <input type="submit" value="Thêm Sản Phẩm" class="btn btn-outline-success btn-block" style="width:200px; height:50px; margin-bottom:20px"/>
+            </div>
+              <div class="row">
+                  <a class="btn btn-outline-success btn-block" style="width:200px; height:50px; margin-bottom:20px; margin-top:20px;text-align:center" href="@Url.Action("Tranh","QuanLi")">Quay Lại</a>
+
+              </div>
+    </div> 
+    
+</form>
+
+</div>
+

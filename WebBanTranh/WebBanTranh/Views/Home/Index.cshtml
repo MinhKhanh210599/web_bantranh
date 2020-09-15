@@ -1,0 +1,46 @@
+﻿@model IEnumerable<WebBanTranh.Models.TRANH>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<html>
+<body>
+    <h1 style="text-align: center; color: red;font-size:40px; margin-bottom:10px">TRANH NỔI BẬT</h1>
+    <div class="row" style="padding-left:50px;background-color:white">
+        @foreach (var item in Model)
+        {
+            <div class="col-lg-3">
+                <div class="row">
+                    <a href ="@Url.Action("TheLoai", "TheLoaiTranh", new { id = item.MATRANH })">
+                        <img alt="@item.TENTRANH" src="~/Content/Anh/@item.ANHBIA" height="350" width="300" class="rounded"/>
+                    </a>
+                </div>
+
+                <div class="row">
+                    <h5 style="text-align:center;margin-right:70px">
+                        @item.TENTRANH
+                    </h5>
+                </div>
+
+                <div class="row">
+                    <h5 style="text-align:center;margin-right:70px">
+                       <p style="color:red"> Giá bán: @item.GIABAN VNĐ</p>
+                    </h5>
+                </div>
+
+                <div class="row" style="padding-bottom:10px">
+                   <button class="btn btn-danger" style="background-color:white;color:black;font-weight:bold">
+                       <a style="text-decoration: none" href="@Url.Action("ThemGioHang", "GioHang", new { iMATRANH = @item.MATRANH, @strURL = Request.Url.ToString() })">Đặt Mua
+                       </a>
+                   </button>
+                    <button class="btn btn-danger" style="background-color:white;color:black;font-weight:bold">
+                        <a style="text-decoration: none" href="@Url.Action("TheLoai", "TheLoaiTranh", new { id = @item.MATRANH })">
+                           Chi Tiết
+                        </a>
+                   </button>
+                </div>
+            </div>
+        }
+    </div>
+</body>
+</html>

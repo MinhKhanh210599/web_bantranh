@@ -1,0 +1,57 @@
+﻿@using WebBanTranh.Models
+@using PagedList.Mvc
+@model PagedList.PagedList<WebBanTranh.Models.TRANH>
+@{
+    ViewBag.Title = "Tranh";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="text-align:center;color:red">QUẢN LÍ THÔNG TIN TRANH</h2>
+<p>
+    @Html.ActionLink("Thêm Tranh Mới","ThemTranhMoi","QuanLi")
+</p>
+<table class="table">
+    <thead class ="thead-dark">
+        <tr>
+        <th>Mã Tranh</th>
+        <th>Tên Tranh</th>
+        <th>Mô tả</th>
+        <th style="width:290px">Bảo hành</th>
+        <th>Giá bán</th>
+        <th>Tình trạng</th>
+        <th>Ảnh bìa</th>
+        <th style="width:50px"></th>
+        <th style="width:50px"></th>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr style="font-weight:bold">
+            <td>@item.MATRANH</td>
+            <td>@item.TENTRANH</td>
+            <td>@item.MOTA</td>
+            <td>@item.BAOHANH</td>
+            <td>@item.GIABAN</td>
+            <td>@item.TINHTRANG</td>
+            <td><img src="~/Content/Anh/@item.ANHBIA" style="width:150px;height:150px" /></td>
+            <td>@String.Format("{0:0,0}", item.dGIABAN)</td>
+            <td> <a href="@Url.Action("TheLoaiTranh","QuanLi", new { id = item.MATRANH})">Chi Tiết</a></td>
+            <td> @Html.ActionLink("Xóa","XoaTranh", new { id= item.MATRANH})</td>           
+        </tr>
+    }
+    <tr style="font-weight:bold; text-align:right; padding-right:50px">
+            <td colspan="9">
+                @Html.ActionLink("Xóa", "XoaTatCaGioHang")
+            </td>
+    </tr>
+</table>
+
+Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+<div>
+    <style>
+        .MenuTrang li {
+            display:inline;
+        }
+    </style>
+</div>
+

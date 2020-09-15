@@ -1,0 +1,192 @@
+@import url("bootstrap.min.css");
+
+.container{
+	max-width:960px;
+}
+ul{
+    padding: 0;
+    list-style-type: none;
+}
+a:hover, a:active{
+    text-decoration: none;
+    outline: none;
+}
+
+header{
+	height: 130px;
+	background:url(../img/header-background.png);
+}
+
+#top-nav{
+	margin-top: 50px;
+	float:right;
+}
+#top-nav li{
+	float:left;
+	margin-left:2px;
+}
+#top-nav li a{
+    text-transform: uppercase;
+    color: #fff;
+    display: block;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 15px;
+    border-radius: 10px;
+    -moz-border-radius:5px;
+
+}
+#top-nav li.active a,#top-nav li a:hover {
+    background: #929e21;
+}
+
+
+#banner-wrapper{
+	padding-top: 108px;
+	height: 360px;
+	border-bottom: 1px solid #ccc;
+	position: relative;
+    
+}
+#banner{
+	height: 342px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	background:#fff;
+    
+}
+#banner-container{
+	background:url(../img/banner-background.png);
+	height: 320px;
+	padding:25px 40px;
+}
+#banner-container h1{
+	font-size:30px;
+	color: #fff;
+	font-weight:bold;
+	text-shadow:opx opx 4px rgba(0,0,0,0,4);   
+}
+#banner-container #slogan{
+    margin: 36px 0;
+    width: 310px;
+    font-size: 18px;
+    color: #fff;
+}
+#banner-container .btn-banner{
+    color: #fff;
+    font-size: bold;
+    display: block;
+    float: left;
+    width: 158px;
+    height: 45px;
+    margin-right: 35px;
+    background: url(../img/banner-button-background.png);
+    text-align: center;
+    line-height: 45px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#banner-container img{
+    margin-left: 20px;
+}
+
+#main{
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #ccc;
+    background: #e9e9db;
+    padding-top: 148px;
+}
+#main .box{
+	height: 165px;
+	padding: 20px 0;
+	margin-bottom: 34px;
+	font-size: 13px;
+	/* [disabled]line-height: 20px; */
+	letter-spacing: -75;
+	color: #6b6b6c;
+}
+#main .box h3{
+    font-size: 16px;
+    color: #6d7808;
+    margin: 0;
+    letter-spacing: 1px;
+}
+#main .left-side .box{
+    border: 1px solid #cbcbcb;
+    border-radius: 5px;
+    background: #fff;
+    box-shadow: inset 0px 0px 5px 5px #f2f2f2;
+    padding: 20px 20px;
+}
+
+.service-list{
+    font-size: 16px;
+    letter-spacing: -1px;
+}
+.service-list li{
+    background: url(../img/ticker.png) no-repeat; 
+    padding-top: 5px;
+    padding-left: 40px;
+}
+
+footer{
+    margin-top: 20px;
+    background: url(../img/footer-background.png) repeat-x;
+    padding: 120px 0;
+    height: 480px;
+}
+footer h2{
+    font-size: 23px;
+    color: #f5f5f5;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+footer h2 .gray{
+    color: #999;
+}
+footer #sugestion{
+    color: #fff;
+    line-height: 23px;
+}
+footer #last-blog{
+    padding: 0 35px;
+}
+footer #last-blog a{
+    color:#fff;
+    line-height: 40px;
+    padding-left: 5px;
+}
+footer #last-blog a:hover{
+    text-decoration: underline;
+}
+footer #last-blog li{
+    height: 40px;
+    border-bottom: 1px dotted #fff;
+}
+footer #recent-work li{
+    margin-bottom: 20px;
+}
+
+footer #nav-wrapper{
+	margin-top: 70px;
+	/* [disabled]height: 90px; */
+	background: #333;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+#footer-nav{
+    float: right;
+}
+#footer-nav li{
+    float: left;
+    line-height: 90px;
+    padding-right: 26px;
+}
+#footer-nav li a{
+    color: #fff;
+}
+#footer-nav li a:hover{
+    text-decoration: underline;
+}

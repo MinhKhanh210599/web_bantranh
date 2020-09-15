@@ -1,0 +1,57 @@
+﻿@using WebBanTranh.Models;
+@model List<GioHang>
+@{
+    ViewBag.Title = "GioHang";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="color: red; text-align:center">GIỎ HÀNG</h2>
+<table class="table">
+    <thead class ="thead-dark">
+        <tr>
+        <th>Mã Tranh</th>
+        <th>Tên Tranh</th>
+        <th>Ảnh Tranh</th>
+        <th>Số lượng</th>
+        <th>Đơn giá</th>
+        <th>Thành tiền</th>
+        <th style="width:50px"></th>
+        <th style="width:50px"></th>
+        <th style="width:50px"></th>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr style="font-weight:bold">
+            <td>@item.iMATRANH</td>
+            <td>@item.sTENTRANH</td>
+            <td><img src="~/Content/Anh/@item.sANHBIA" style="width:150px;height:150px" /></td>
+            @using (Html.BeginForm("CapNhatGioHang", "GioHang", new { @matranh = item.iMATRANH}))
+            {
+                <td>
+                    <input type="number" min="1" name="txtSoLuong" value="@item.iSOLUONG" style="background-color:pink;text-align:center" />
+                </td>
+                <td>@String.Format("{0:0,0}", item.dGIABAN)</td>
+                <td>@String.Format("{0:0,0}", item.dTHANHTIEN)</td>
+                <td> <a href="@Url.Action("TheLoai","TheLoaiTranh", new { id = item.iMATRANH})">Chi Tiết</a></td>
+                <td> @Html.ActionLink("Xóa","XoaGioHang", new { @maTranh= item.iMATRANH})</td>
+                <td> <input type="submit" value="Cập nhật" /></td>
+            }
+        </tr>
+        
+    }
+    <tr style="font-weight:bold; text-align:right; color:red">
+        <td colspan="4"> Số lượng tranh: @ViewBag.TongSoLuong </td>
+        <td colspan="5"> Tổng tiền: @String.Format("{0:0,0}", ViewBag.TongTien) VNĐ  </td>
+    </tr>
+    <tr style="font-weight:bold; text-align:right; padding-right:50px">
+            <td colspan="9">
+                @Html.ActionLink("Xóa Tất Cả Giỏ Hàng", "XoaTatCaGioHang")
+            </td>
+    </tr>
+    <tr style="font-weight: bold; color: blue; text-align: right">
+        <td colspan ="9">
+           <a href="@Url.Action( "DangNhap", "KhachHang")"> Thanh Toán</a>
+        </td>
+    </tr>
+</table>

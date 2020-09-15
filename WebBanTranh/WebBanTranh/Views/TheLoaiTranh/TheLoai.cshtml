@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "TheLoai";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model WebBanTranh.Models.TRANH
+
+<h2 style="text-align:center;color:blue">THÔNG TIN CHI TIẾT TRANH</h2>
+<div class=" container">
+    <div class="row">
+        <div class="col-lg-4">
+            <img alt="@Model.TENTRANH" src="~/Content/Anh/@Model.ANHBIA" width="320" height="280"/>
+        </div>
+        <div class="col-lg-8">
+            <div class="row">
+                <div class="col-lg-11">
+                    <div class="row" >
+                        <h2 style="color: red">Tên Tranh: @Model.TENTRANH</h2>
+                    </div>
+                    <div class="row" style="margin-top:auto">
+                        <h3>Mô Tả:  @Model.MOTA</h3>
+                    </div>
+                    <div class="row" style="margin-top:auto">
+                        <h3>Bảo Hành:  @Model.BAOHANH</h3>
+                    </div>
+                    <div class="row">
+                        <h2 style="color: red">Giá: @Model.GIABAN đ</h2>
+                    </div>
+                    <div class="row" style="margin-top: 20px;float:right; color:red; background-color: white">
+                        <button class="btn btn-danger">
+                            <a style="text-decoration: none" href="@Url.Action("ThemGioHang", "GioHang", new { iMATRANH = @Model.MATRANH, @strURL = Request.Url.ToString() })">Đặt Mua
+                       </a>
+                        </button>
+                    </div>
+                    
+                </div>
+            </div>
+
+    </div>
+</div>
+
+<button class="btn btn-info" style="background-color:white; padding-top:5px; padding-bottom: 5px">
+    @Html.ActionLink("Quay lại mua tiếp", "Index","Home")
+</button>

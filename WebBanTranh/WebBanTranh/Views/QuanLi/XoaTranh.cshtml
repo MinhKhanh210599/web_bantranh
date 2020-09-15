@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "XoaTranh";
+    Layout = "~/Views/Shared/LayoutAdmin.cshtml";
+}
+@model WebBanTranh.Models.TRANH
+<h2>XÁC NHẬN THÔNG TIN CẦN XÓA</h2>
+<h3>Bạn quyết định xóa tranh này không ?</h3>
+<div>
+    @using (Html.BeginForm())
+    { 
+        @Html.AntiForgeryToken()
+        <div class="form-actions no-color">
+            <input type="submit" value="xóa" class="btn btn-default" />
+            @Html.ActionLink("Trở về","Tranh")
+        </div>
+    }
+</div>
+

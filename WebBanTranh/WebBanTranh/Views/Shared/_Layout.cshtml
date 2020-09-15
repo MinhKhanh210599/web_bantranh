@@ -1,0 +1,111 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <link href="~/Content/css/CSS.css" rel="stylesheet" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="header-tinh">
+            <div class="header">
+                <div class="row">
+                    <div class="header-design">
+                        <div class="col-lg-3">
+                             <p style="font-size:30px;font-family:'Viner Hand ITC'; color: blue; text-align:center; padding-top:10px; font-weight:bold">TRANH NHIÊN KHÁNH</p>
+                            <img src="~/Content/HinhAnh/logo-tranhdepvietnam.png" style="width: 300px; height: 130px;">
+                        </div>
+                        <div class="col-lg-9">
+                            <div class="header-noidung">
+                                <ul class="nav nav-fill flex-lg-row">
+                                    @*<p style="padding-top:20px;text-align:center;font-size:20px">Chất lượng là ở tấm lòng</p>*@
+                                    <li class="nav-item">@Html.ActionLink("TRANG CHỦ", "Index", "Home")</li>
+                                    <li class="nav-item">@Html.ActionLink("GIỚI THIỆU", "GioiThieu", "Home")</li>
+                                    <li class="nav-item">@Html.ActionLink("TRANH PHONG CẢNH", "TranhPhongCanh", "TheLoaiTranh")</li>
+                                    <li class="nav-item">@Html.ActionLink("TRANH TREO TƯỜNG 3D", "TranhTreoTuong3D", "TheLoaiTranh")</li>                                  
+                                    <li class="nav-item">@Html.ActionLink("LIÊN HỆ", "LienHe", "Home")</li>
+                                    <li class="nav-item">@Html.ActionLink("QUẢN LÍ", "login", "QuanLi")</li>
+                                </ul>
+                            </div>
+                            <div class="header-dkdn">
+                                <ul class="nav nav-fill flex-lg-row">
+                                    <li class="nav-item">@Html.ActionLink("Đăng Ký", "DangKy", "KhachHang")</li>
+                                    <li class="nav-item">@Html.ActionLink("Đăng Nhập", "DangNhap", "KhachHang")</li>
+                                    <li class="nav-item">@Html.Action("GioHangPartial","GioHang")</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+             </div>
+        </div>
+     </div>
+
+
+    <div class="container-fluid">
+        <div class="slide">
+            <div class="row">
+                    <div class="slide-show">
+                        <img src="~/Content/HinhAnh/den-trang-tri-f20.jpg" style="width:100%; height: 500px" />
+                        <img src="~/Content/HinhAnh/nhadep.jpg" style="width: 100%; height: 500px" />
+                        <img src="~/Content/HinhAnh/nhadep3.jpg" style="width: 100%; height: 500px" />
+                        <img src="~/Content/HinhAnh/nhadep2.jpg" style="width: 100%; height: 500px" />
+                    </div>
+                    <script type="text/javascript">
+                        $(function () {
+                            $('.slide-show img:gt(0)').hide();
+                            setInterval(function () {
+                                $('.slide-show :first-child').fadeOut()
+                                .next('img').fadeIn()
+                                .end().appendTo('.slide-show');
+                            }, 2000);
+                        })
+                    </script>
+                </div>
+                @RenderBody()
+        </div>
+    </div>
+
+
+  @*  <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-3">
+                @Html.ActionLink("Index","Home");
+            </div>
+        </div>
+    </div>*@
+
+
+    <div class="container-fluid">
+            <div class="row" style="background-color: black ; width: auto; height: 250px">
+            <div class="col-lg-6" >
+
+                <p style="font-size: 20px; padding-top: 50px; padding-left: 120px; color: white">TRANH NHIÊN KHÁNH SÀI GÒN HÂN HẠNH PHỤC VỤ: </p> 
+                 <br /> <p style="font-size: 15px; padding-top: 5px; padding-left: 120px; color: red"> <img src="~/Content/Anh icon/call_icon.png" />   Điện thoại: 0379008219 - 0328243532
+                 <br /> <img src="~/Content/Anh icon/email.png" /> Email: Tranhnhienkhanh@gmail.com
+                 <br /> <img src="~/Content/Anh icon/alarm-clock.png" /> Thời gian làm việc: Thứ 2 - Chủ nhật: 8h Sáng - 17h Chiều
+                 <br /> <img src="~/Content/Anh icon/address.png" /> Địa chỉ: 1/36/19 đường Trục, Quận Bình Thạnh, Hồ Chí Minh </p> 
+                <ul style="padding-left:120px; padding-bottom:5px">
+                    <li"><a href="https://www.facebook.com/pg/Tranh3DTreotruong/about/?ref=page_internal"> <img src="~/Content/Anh icon/facebook (1).png"/></a></li">
+                    <li"><a href="https://www.instagram.com/"> <img src="~/Content/Anh icon/instagram.png" style="padding-left:10px"/></a></li>
+                </ul>       
+            </div>
+            <div class="col-lg-6" >
+                <img src="~/Content/Anh icon/map.PNG" style="width:400px; padding-top:10px; padding-bottom:10px"/>
+            </div>
+           </div>
+    </div>
+       
+
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+                                   

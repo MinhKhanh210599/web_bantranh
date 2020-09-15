@@ -1,0 +1,228 @@
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebBanTranh.dll
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebBanTranh.pdb
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Antlr3.Runtime.dll
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\EntityFramework.dll
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Microsoft.Web.Infrastructure.dll
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Newtonsoft.Json.dll
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Mvc.dll
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Optimization.dll
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Providers.dll
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Razor.dll
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Deployment.dll
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.dll
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Razor.dll
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebGrease.dll
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\EntityFramework.xml
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Newtonsoft.Json.xml
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Mvc.xml
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Razor.xml
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.xml
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Deployment.xml
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Razor.xml
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.csprojResolveAssemblyReference.cache
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.dll
+E:\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.pdb
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebBanTranh.dll
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebBanTranh.pdb
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Antlr3.Runtime.dll
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\EntityFramework.dll
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Microsoft.Web.Infrastructure.dll
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Newtonsoft.Json.dll
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Mvc.dll
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Optimization.dll
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Providers.dll
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Razor.dll
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Deployment.dll
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.dll
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Razor.dll
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebGrease.dll
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\EntityFramework.xml
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Newtonsoft.Json.xml
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Mvc.xml
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Razor.xml
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.xml
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Deployment.xml
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Razor.xml
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.dll
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.pdb
+E:\Đồ án môn học\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.csprojResolveAssemblyReference.cache
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebBanTranh.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebBanTranh.pdb
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Antlr3.Runtime.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\EntityFramework.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Newtonsoft.Json.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Net.Http.Formatting.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Http.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Http.WebHost.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Mvc.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Optimization.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Providers.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Razor.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Razor.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebGrease.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\EntityFramework.xml
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Newtonsoft.Json.xml
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Net.Http.Formatting.xml
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Http.xml
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Http.WebHost.xml
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Mvc.xml
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Razor.xml
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.xml
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Razor.xml
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.csprojResolveAssemblyReference.cache
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.pdb
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebBanTranh.dll
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebBanTranh.pdb
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Antlr3.Runtime.dll
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\EntityFramework.dll
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Newtonsoft.Json.dll
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Net.Http.Formatting.dll
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Http.dll
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Http.WebHost.dll
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Mvc.dll
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Optimization.dll
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Providers.dll
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Razor.dll
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Deployment.dll
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.dll
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Razor.dll
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebGrease.dll
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\EntityFramework.xml
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Newtonsoft.Json.xml
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Net.Http.Formatting.xml
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Http.xml
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Http.WebHost.xml
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Mvc.xml
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Razor.xml
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.xml
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Deployment.xml
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Razor.xml
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.csprojResolveAssemblyReference.cache
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.dll
+D:\DoAnWeb\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.pdb
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebBanTranh.dll
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebBanTranh.pdb
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.dll
+C:\Users\Admin\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.pdb
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebBanTranh.dll
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebBanTranh.pdb
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Antlr3.Runtime.dll
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\EntityFramework.dll
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Microsoft.Web.Infrastructure.dll
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Newtonsoft.Json.dll
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Mvc.dll
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Optimization.dll
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Providers.dll
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Razor.dll
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Deployment.dll
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.dll
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Razor.dll
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebGrease.dll
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\EntityFramework.xml
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Newtonsoft.Json.xml
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Mvc.xml
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Razor.xml
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.xml
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Deployment.xml
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Razor.xml
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.csprojResolveAssemblyReference.cache
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.dll
+E:\Đồ án môn học\Đồ án WEB\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.pdb
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebBanTranh.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebBanTranh.pdb
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Antlr3.Runtime.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\EntityFramework.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Newtonsoft.Json.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Net.Http.Formatting.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Http.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Http.WebHost.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Mvc.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Optimization.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Providers.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Razor.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Razor.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\WebGrease.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\EntityFramework.xml
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\Newtonsoft.Json.xml
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Net.Http.Formatting.xml
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Http.xml
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Http.WebHost.xml
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Mvc.xml
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.Razor.xml
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.xml
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Razor.xml
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.pdb
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\PagedList.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\PagedList.Mvc.dll
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\PagedList.xml
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\bin\PagedList.Mvc.xml
+C:\Users\Quoc Nhien\Desktop\WEB\Đồ án WEB\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.csprojResolveAssemblyReference.cache
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\PagedList.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\PagedList.Mvc.dll
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\PagedList.xml
+C:\Users\Quoc Nhien\Desktop\Đồ án WEB\WebBanTranh\WebBanTranh\bin\PagedList.Mvc.xml
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\WebBanTranh.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\WebBanTranh.pdb
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\Antlr3.Runtime.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\EntityFramework.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\Newtonsoft.Json.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\PagedList.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\PagedList.Mvc.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Net.Http.Formatting.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Web.Http.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Web.Http.WebHost.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Web.Mvc.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Web.Optimization.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Web.Providers.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Web.Razor.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\WebGrease.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\PagedList.xml
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\PagedList.Mvc.xml
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\EntityFramework.xml
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\Newtonsoft.Json.xml
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Net.Http.Formatting.xml
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Web.Http.xml
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Web.Http.WebHost.xml
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Web.Mvc.xml
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Web.Razor.xml
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.xml
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.csprojResolveAssemblyReference.cache
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.dll
+C:\Users\Cherry Khanh\Downloads\Đồ án WEB_Nhóm Nhiên_Khánh\WebBanTranh\WebBanTranh\obj\Debug\WebBanTranh.pdb
